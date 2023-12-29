@@ -1,6 +1,6 @@
 # Home
 
-our focused areas of software development but not limited to:
+Our focused areas of software development but not limited to:
 
 Digital Transformation
 
