@@ -22,7 +22,7 @@ Our focused areas of software development are, but not limited to:
 
 - Spreadsheets Aggregation & Interpretations 
 
-- Datasets & Data Lakes
+- Datasets, Data Warehousing  & Data Lakes
 
 - ORM
 
