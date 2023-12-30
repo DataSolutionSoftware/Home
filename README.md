@@ -6,7 +6,7 @@ Digital Transformation
 
 Integration
 
-Migration
+Migration 
 
 Redesign
 
