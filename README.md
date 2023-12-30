@@ -2,39 +2,39 @@
 
 Our focused areas of software development are, but not limited to:
 
-Digital Transformation 
+- Digital Transformation 
 
-Integration
+- Integration
 
-Migration 
+- Migration 
 
-Redesign
+- Redesign
 
-Insights
+- Insights
 
-Data Mining
+- Data Mining
 
-Visualisation & Reporting
+- Visualisation & Reporting
 
-CRM Ingestion
+- CRM Ingestion
 
-E-Commerce
+- E-Commerce
 
-Spreadsheets Aggregation & Interpretations 
+- Spreadsheets Aggregation & Interpretations 
 
-Datasets & Data Lakes
+- Datasets & Data Lakes
 
-ORM
+- ORM
 
-Cloud
+- Cloud
 
-Cybersecurity
+- Cybersecurity
 
-Data Science
+- Data Science
 
-AI
+- AI
 
-Apps & Platforms
+- Apps & Platforms
 
 # Solutions:
 
