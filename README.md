@@ -38,8 +38,7 @@ Our focused areas of software development are, but not limited to:
 
 ## Solutions:
 
-1. Love Joint
-A Nutraceutical for Lifestyle & Healthy Living - https://www.lovejoint.store/
+1. Love Joint, a Nutraceutical for Lifestyle & Healthy Living - https://www.lovejoint.store/
 2. Google Sheet CRUD Applications - https://drive.google.com/file/d/1LCi_PciknOFIhoiWiNXqHjH8XuOOaN9z/view?ts=658eb09c
 3. Visualisation and Charts Spreadsheet - https://docs.google.com/spreadsheets/d/1x2VrC-56FCisB-VNs2G12P5ySBNMCmnT6N4sqSyq4dE/edit#gid=0
 4. Visualisation and Charts Application - https://pritamsharma45.github.io/google-charts/
