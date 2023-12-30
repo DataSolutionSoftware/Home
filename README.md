@@ -16,7 +16,7 @@ Data Mining
 
 Visualisation & Reporting
 
-CRM Ingestions
+CRM Ingestion
 
 E-Commerce
 
