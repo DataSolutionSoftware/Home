@@ -10,7 +10,7 @@ Our focused areas of software development are, but not limited to:
 
 - Redesign
 
-- Insights
+- Power  BI & Insight 
 
 - Data Mining
 
@@ -31,6 +31,8 @@ Our focused areas of software development are, but not limited to:
 - Cybersecurity
 
 - Data Science
+  
+- DevOps/DevSecOps
 
 - AI
 
