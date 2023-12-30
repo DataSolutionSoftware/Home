@@ -20,7 +20,7 @@ Our focused areas of software development are, but not limited to the following:
 
 - E-Commerce
 
-- Spreadsheets Aggregation & Interpretations 
+- Spreadsheets: Aggregation & Interpretations 
 
 - Datasets, Data Warehousing  & Data Lakes
 
