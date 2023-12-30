@@ -10,7 +10,7 @@ Our focused areas of software development are, but not limited to the following:
 
 - Redesign
 
-- Power  BI & Insight 
+- Power  BI & Insights 
 
 - Data Mining
 
