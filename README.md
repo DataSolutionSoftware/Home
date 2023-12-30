@@ -1,6 +1,6 @@
 # DSS Home
 
-Our focused areas of software development are, but not limited to:
+Our focused areas of software development are, but not limited to the following:
 
 - Digital Transformation  
 
