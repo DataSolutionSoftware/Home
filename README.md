@@ -26,7 +26,7 @@ Our focused areas of software delivery include:
 
 - Consultancy 
 
-## Integration Patterns 
+## Our Integration Patterns 
 
 - Event-Driven Architecture (EDA):
   This focuses on production detection, consumption and reaction of Events. Systems  communicate through events, allowing  for decoupled and scalable architectures.
