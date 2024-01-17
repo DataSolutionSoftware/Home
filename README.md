@@ -33,7 +33,8 @@ Our focused areas of software delivery include:
 
 Technologies: Apache Kafka, AWS Event Bridge and NATS Streaming.
 
-- Microservices Integration:This architecture involves breaking  down  applications  into small independently deployable  components and services. Integration  Patterns for Microservices include API Gateways, Service  Meshes and Event-driven communication.
+- Microservices Integration:
+  This architecture involves breaking  down  applications  into small independently deployable  components and services. Integration  Patterns for Microservices include API Gateways, Service  Meshes and Event-driven communication.
 
 Technologies: Istio (Service Nesh), Linkerd, Envoy Proxy.
 
