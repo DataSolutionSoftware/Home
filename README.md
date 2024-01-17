@@ -1,40 +1,30 @@
 # DSS Home
 
-Our focused areas of software development are, but not limited to the following:
+Our focused areas of software delivery include:
 
-- Digital Transformation  
+- Digital Transformation
 
-- Integration
+- End-to-end Software Development 
 
-- Migration 
+- Integrations: Cloud, APIs, Connectors, Adaptors, ORM, Webhooks, CRMs, Migration 
 
-- Redesign
-
-- Power  BI & Insights 
-
-- Data Mining
-
-- Visualisation & Reporting
-
-- CRM Ingestion
-
-- E-Commerce
-
-- Spreadsheets: Aggregation & Interpretations 
-
-- Datasets, Data Warehousing  & Data Lakes
-
-- ORM
-
-- Cloud
-
-- Cybersecurity
-
-- Data Science
-  
-- DevOps/DevSecOps
+- Cloud Engineering
 
 - AI
 
-- Apps & Platforms
+- Visualisation, Reporting & Insights 
+
+- E-Commerce
+
+- Spreadsheets Aggregation and Ingestions with Web Components 
+
+- Data: Datasets, Data Warehousing, Data Mining, Data Lakes & Data Science 
+
+- Cybersecurity
+
+- CI/CD/DevOps/DevSecOps 
+
+
+
+
 
