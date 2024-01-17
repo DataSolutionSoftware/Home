@@ -22,7 +22,9 @@ Our focused areas of software delivery include:
 
 - Cybersecurity
 
-- CI/CD/DevOps/DevSecOps 
+- CI/CD/DevOps/DevSecOps
+
+- Consultancy 
 
 
 
