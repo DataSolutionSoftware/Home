@@ -26,7 +26,18 @@ Our focused areas of software delivery include:
 
 - Consultancy 
 
+## Integration Patterns 
 
+- Event-Driven Architecture (EDA):
+  This focuses on production detection, consumption and reaction of Events. Systems  communicate through events, allowing  for decoupled and scalable architectures.
+
+Technologies: Apache Kafka, AWS Event Bridge and NATS Streaming.
+
+- Microservices Integration:
+
+  This architecture involves breaking  down  applications  into small independently deployable  components and services. Integration  Patterns for Microservices include API Gateways, Service  Meshes and Event-driven communication.
+
+  Technologies: Istio (Service Nesh), Linkerd, Envoy Proxy.
 
 
 
