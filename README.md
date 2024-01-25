@@ -46,4 +46,4 @@ Technologies: Apollo Server, HASURA, and GraphQL  subscriptions.
 - Severless Integration:
   Our Severless computing  infrastructure  allows developers  to build and run applications  without  managing  server  infrastructure. It is often  used for event-driven and small focused functions.
 
-Technologies: AWS Lambda, AZURE  Functions, Google Cloud Functions.
+Technologies: AWS Lambda, AZURE    Functions, Google Cloud Functions.
