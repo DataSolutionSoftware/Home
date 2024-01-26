@@ -52,3 +52,15 @@ Technologies: AWS Lambda, AZURE    Functions, Google Cloud Functions.
   Used to optimise, manage and secure API calls. They  also play  key roles in  access  controls, monitoring  and ensuring the performance of API calls.
 
 Technologies: Kong, Ambassador, and Traefik.
+
+- Cloud Native Integration:
+
+- AI & ML Integration:
+
+- Low Code / No Code Integration:
+
+- Blockchain Integration:
+
+- Data Integration Platforms:
+
+- Edge Computing  Integration:
