@@ -1,4 +1,4 @@
-# DSS Home
+⁷# DSS Home
 
 Our focused areas of software delivery include:
 
@@ -47,3 +47,6 @@ Technologies: Apollo Server, HASURA, and GraphQL  subscriptions.
   Our Severless computing  infrastructure  allows developers  to build and run applications  without  managing  server  infrastructure. It is often  used for event-driven and small focused functions.
 
 Technologies: AWS Lambda, AZURE    Functions, Google Cloud Functions.
+
+- API Management & Gateway  Solutions:
+  Used to optimise, manage and secure API calls. They  also play  key roles in  access  controls, monitoring  and ensuring the performance of API calls.
