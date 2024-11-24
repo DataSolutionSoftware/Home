@@ -55,6 +55,13 @@ https://www.gchq.gov.uk/ | https://www.ncsc.gov.uk/  | https://www.ncsc.gov.uk/
 These platforms provide strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
 
 
+## Marks & Spencer eCommerce platform:
+
+https://www.marksandspencer.com/ 
+
+Delivered the technical framework and initiative for the digital transformation of Marks and Spencer's e-commerce platform from a coupled monolithic to a scalable micro-service omnichannel platform while ensuring the continuation and enhancements of services.
+
+
 ## Our Integration Patterns 
 
 - Event-Driven Architecture (EDA):
