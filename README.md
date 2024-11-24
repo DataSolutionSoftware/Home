@@ -1,4 +1,4 @@
-⁷# DSS Home
+# DSS Home
 
 Our focused areas of software delivery include:
 
