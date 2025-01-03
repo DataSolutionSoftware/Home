@@ -5,7 +5,7 @@
 
 ## Our mission: 
 
-to enable businesses to grow and reimagine themselves by becoming advocates and champions for their Customers. With deep heritage and expertise in the world's most competitive market in data science, digital services, E-Commerce, Banking and Aerospace.
+To enable businesses to grow and reimagine themselves by becoming advocates and champions for their Customers. With deep heritage and expertise in the world's most competitive market in data science, digital services, E-Commerce, Banking and Aerospace.
 
 ## Specialties: 
 
