@@ -1,4 +1,15 @@
  # Data Solutions  Software 
+
+ DSS is a global leader in Customer Data Science, empowering businesses everywhere to compete and thrive in the modern data-driven economy. We always put the Customer First.
+
+
+## Our mission: 
+
+to enable businesses to grow and reimagine themselves by becoming advocates and champions for their Customers. With deep heritage and expertise in the world's most competitive market in data science, digital services, E-Commerce, Banking and Aerospace.
+
+## Specialties: 
+
+AWS cloud services, Machine Learning& AI,  Digital Transformation, Product Engineering & Management, DevOps, Cyber Security, SRE, Agile, Public Sector, Digital Process Automation, Service Design, and User-Centred Design.
   
 Our focused areas of software delivery include:
 
