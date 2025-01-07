@@ -77,8 +77,8 @@ Technologies: Kong, Ambassador, and Traefik.
 - Edge Computing  Integration:
 
 ## Partners
-(logos)
 
-Agile World Technologies 
+
+![image](https://github.com/kukuu/integration/blob/main/aawt-logo.png)
 
 Vercel
