@@ -47,7 +47,7 @@ Technologies: Apache Kafka, AWS Event Bridge and NATS Streaming.
 - Microservices Integration:
   This architecture involves breaking  down  applications  into small independently deployable  components and services. Integration  Patterns for Microservices include API Gateways, Service  Meshes and Event-driven communication.
 
-Technologies: Istio (Service Nesh), Linkerd, Envoy Proxy.
+Technologies: Istio (Service Mesh), Linkerd, Envoy Proxy.
 
 - GraphQL  for API Integration:
   GraphQL  is a query  language  for APis that allows clients to request data they only  need. It simplifies API Integration  by providing  flexible  and efficient  way to interact  with data.
