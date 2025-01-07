@@ -75,3 +75,10 @@ Technologies: Kong, Ambassador, and Traefik.
 - Data Integration Platforms:
 
 - Edge Computing  Integration:
+
+## Partners
+(logos)
+
+Agile World Technologies 
+
+Vercel
