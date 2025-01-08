@@ -9,7 +9,7 @@ To enable businesses to grow and reimagine themselves by becoming advocates and 
 
 ## Specialties: 
 
-AWS cloud services, Machine Learning & AI,  Digital Transformation, Product Engineering & Management, DevOps, Cyber Security, SRE, Agile, Public Sector, Digital Process Automation, Service Design, and User-Centred Design.
+Cloud services (AWS, Google, AZURE) , Machine Learning & AI,  Digital Transformation, Product Engineering & Management, DevOps, Cyber Security, SRE, Agile, Public Sector, Digital Process Automation, Service Design, and User-Centred Design.
   
 Our focused areas of software delivery include:
 
