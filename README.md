@@ -79,10 +79,7 @@ Technologies: Kong, Ambassador, and Traefik.
 ## Partners
 
 
-![image](https://github.com/kukuu/integration/blob/main/aawt-logo.png)
-
-
-![image](https://github.com/kukuu/integration/blob/main/wercel-logo.jpg)
+![image](https://github.com/kukuu/integration/blob/main/aawt-logo.png)  ![image](https://github.com/kukuu/integration/blob/main/wercel-logo.jpg)
 
 
 
