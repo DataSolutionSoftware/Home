@@ -1,6 +1,8 @@
  # Data Solutions  Software 
 
- DSS is a global leader in Customer Data Science, empowering businesses everywhere to compete and thrive in the modern data-driven economy. We always put the Customer First.
+ DSS is a global leader in Customer Data Science, empowering businesses everywhere to compete and thrive in the modern data-driven economy. 
+ 
+ We always put the Customer First.
 
 
 ## Our mission: 
