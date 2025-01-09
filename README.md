@@ -76,6 +76,22 @@ Technologies: Kong, Ambassador, and Traefik.
 
 - Edge Computing  Integration:
 
+
+## Backend  ecosystem 
+
+- Programming Languages
+- Frameworks
+- Database Systems
+- Cloud Infrastructure
+- Containerisation and Orchestration
+- Messaging and Event Streaming
+- API Management
+- Logging and Monitoring
+- Authentication and Security
+- CI/CD
+- Optimisation
+
+
 ## Partners
 
 
