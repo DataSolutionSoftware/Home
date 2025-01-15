@@ -111,6 +111,14 @@ Technologies: Kong, Ambassador, and Traefik.
 - Optimisation
 
 
+## Backend Systems Design 
+
+
+This low-level architecture delves into the specifics of each component, detailing interactions, data flow, and technology choices.
+
+
+https://github.com/kukuu/integration/blob/main/syst-design-low-level-architecture.png 
+
 ## Architecture:
 
 Microservice - https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=586KLgu9nFXtqLlr-0 
@@ -120,14 +128,6 @@ System Design - https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Desig
 
 
 CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
-
-## Backend Systems Design 
-
-
-This low-level architecture delves into the specifics of each component, detailing interactions, data flow, and technology choices.
-
-
-https://github.com/kukuu/integration/blob/main/syst-design-low-level-architecture.png
 
 ### API Gateway:
 
