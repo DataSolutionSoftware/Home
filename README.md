@@ -119,15 +119,6 @@ This low-level architecture delves into the specifics of each component, detaili
 
 https://github.com/kukuu/integration/blob/main/syst-design-low-level-architecture.png 
 
-## Architecture:
-
-Microservice - https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=586KLgu9nFXtqLlr-0 
-
-
-System Design - https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Design?node-id=0-1&p=f&t=dR1xjhEdZmx4g48x-0
-
-
-CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
 
 ### API Gateway:
 
@@ -292,6 +283,18 @@ Prometheus: Metrics collection for observability.
 
 Grafana Dashboards: Real-time visual analytics and alerts.
 ELK Stack: Aggregates logs and errors for auditing and compliance.
+
+
+## Architecture:
+
+Microservice - https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=586KLgu9nFXtqLlr-0 
+
+
+System Design - https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Design?node-id=0-1&p=f&t=dR1xjhEdZmx4g48x-0
+
+
+CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
+
 
 
 ## Portfolio
