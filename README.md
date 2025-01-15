@@ -407,17 +407,6 @@ Containerization and Orchestration: Docker and Kubernetes.
 
 Monitoring and Logs: Prometheus and ELK Stack.
 
-## Architecture:
-
-Microservice - https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=586KLgu9nFXtqLlr-0 
-
-
-System Design - https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Design?node-id=0-1&p=f&t=dR1xjhEdZmx4g48x-0
-
-
-CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
-
-
 ## Data Structures 
 
 Distributed architecture systems  involves multiple independent services working together. 
@@ -531,6 +520,20 @@ Tools: Amazon S3, Azure Blob Storage.
 Scenario: Storing user-uploaded passport images or itineraries.
 
 Processing: Retrieve, update, or delete blobs as needed.
+
+
+
+## Architecture:
+
+Microservice - https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=586KLgu9nFXtqLlr-0 
+
+
+System Design - https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Design?node-id=0-1&p=f&t=dR1xjhEdZmx4g48x-0
+
+
+CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
+
+
 
 
 ## Portfolio
