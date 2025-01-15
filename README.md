@@ -289,10 +289,7 @@ ELK Stack: Aggregates logs and errors for auditing and compliance.
 
 ## Frontend System Design 
 
-Low level  architecture: 
-
-
-https://github.com/kukuu/integration/blob/main/frontend-system-design-low-level-architecture.png 
+Low level  architecture: https://github.com/kukuu/integration/blob/main/frontend-system-design-low-level-architecture.png 
 
 
 Key Components in the Frontend High-Level Design:
