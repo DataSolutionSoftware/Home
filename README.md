@@ -121,6 +121,175 @@ System Design - https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Desig
 
 CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
 
+## Systems Design 
+
+
+This low-level architecture delves into the specifics of each component, detailing interactions, data flow, and technology choices.
+
+### API Gateway:
+
+- Responsibilities:
+Routing requests to appropriate services.
+
+Load balancing incoming traffic.
+
+Implementing security measures like SSL termination and request authentication.
+
+Rate limiting to prevent abuse.
+
+
+- Technology Choices:
+
+Kong: An open-source API gateway with a rich plugin ecosystem.
+
+NGINX: High-performance web server and reverse proxy.
+
+AWS API Gateway: Managed service for creating and managing APIs.
+Vertical Services:
+
+### Design:
+
+Each service is a microservice with its own codebase, database, and deployment pipeline.
+Services communicate over well-defined interfaces (APIs).
+
+- Technology Choices:
+Programming Languages:
+
+Node.js: Suitable for I/O-bound services like Search.
+
+Python: Ideal for data-intensive services like Pricing.
+
+Java: Preferred for transaction-heavy services like Booking.
+
+- Frameworks:
+
+Express.js for Node.js.
+
+Spring Boot for Java.
+
+Django for Python.
+
+### Service Communication:
+
+- Synchronous Communication:
+
+REST: Simple and widely adopted.
+
+gRPC: High-performance, suitable for internal service communication.
+
+- Asynchronous Communication:
+
+Message Queues:
+
+RabbitMQ: Reliable message broker.
+
+Apache Kafka: Suitable for high-throughput, real-time data streaming.
+
+### Data Layer:
+
+- Databases:
+
+Relational Databases:
+
+PostgreSQL: For transactional data like bookings and pricing that need ACID compliance.
+
+MySQL: Optional for horizontal scalability with clustering (e.g., Percona or Galera Cluster).
+
+NoSQL Databases:
+
+MongoDB: For schema-less data, e.g., user-generated reviews and logs.
+
+Cassandra: High availability and linear scalability for distributed data storage.
+
+Search Engine Database:
+
+Elasticsearch: Optimized for text search queries used in the Search service.
+
+Caching Layer:
+
+Redis: Fast in-memory key-value storage for caching frequently accessed data.
+
+Memcached: Lightweight and optimized for fast lookups.
+
+Message Queues:
+
+Apache Kafka: Distributed streaming for event-driven systems, ensuring reliable and scalable communication.
+
+RabbitMQ: For lightweight messaging in services requiring ordered processing.
+
+### Configuration Management:
+
+Consul or etcd: Centralized storage for configurations.
+
+Kubernetes ConfigMaps and Secrets: Manage sensitive and non-sensitive configurations in containerized systems.
+
+
+### Logging and Monitoring:
+
+Log Aggregation:
+ELK Stack (Elasticsearch, Logstash, Kibana): Logs collection, storage, and visualization.
+
+
+
+Fluentd: Unified log processing and forwarding.
+
+
+
+Monitoring Tools:
+
+
+Prometheus: Monitoring metrics and alerts.
+
+
+Grafana: Data visualization.
+Jaeger/Zipkin: Distributed tracing for debugging service interactions.
+
+
+### Authentication and Authorization:
+
+OAuth2.0 and OpenID Connect: For user identity management.
+
+
+Keycloak/Okta: Identity provider and Single Sign-On solutions.
+
+
+JSON Web Tokens (JWT): Token-based authentication for secure API requests.
+Error Handling:
+
+Retry Mechanisms: Implement exponential backoff for transient errors.
+
+
+Dead Letter Queues (DLQ): Handle unprocessable messages in Kafka or RabbitMQ.
+
+
+Fallback Strategies: Circuit breaker pattern using tools like Resilience4j or Hystrix.
+
+### CI/CD Pipeline:
+
+Jenkins/GitLab CI/CD: Build, test, and deploy pipelines.
+Docker and Kubernetes: 
+
+### Containerization and orchestration.
+
+
+ArgoCD or Spinnaker: Continuous delivery for Kubernetes.
+Containerization and Orchestration:
+
+Docker: Lightweight containers for services.
+
+
+Kubernetes: Manages containerized services, enabling scalability and fault tolerance.
+
+
+Helm Charts: For defining, installing, and upgrading Kubernetes applications.
+Reporting Service:
+
+Prometheus: Metrics collection for observability.
+
+
+Grafana Dashboards: Real-time visual analytics and alerts.
+ELK Stack: Aggregates logs and errors for auditing and compliance.
+
 
 ## Portfolio
 
