@@ -418,6 +418,120 @@ System Design - https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Desig
 CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
 
 
+## Data Structures 
+
+Distributed architecture systems  involves multiple independent services working together. 
+
+Challenges  associated working with such integrated disparate systems  include schema evolution, message  delivery and managing and maintaining consistency of data processing during failures. 
+
+The choice of data structures plays a critical role in facilitating data storage, processing, communication, and state management. Below are key types of data structures you might encounter and examples of how they can be processed.
+
+
+
+###  Core Types of Data Structures
+
+- Key-Value Pairs
+
+Use Case: Ideal for caching or storing session data, configuration settings, or any data that can be accessed with a unique key.
+
+Example:
+
+Tools: Redis, DynamoDB.
+Scenario: Caching frequently accessed flight search results.
+
+Processing: Retrieve and update values based on keys efficiently (O(1) operations).
+
+
+- JSON / BSON Documents
+
+Use Case: Used for unstructured or semi-structured data in document stores.
+
+Example:
+
+Tools: MongoDB, CouchDB.
+
+Scenario: Storing user travel preferences or booking details.
+
+Processing: Query and modify specific fields in the document, such as retrieving all bookings for a user.
+
+
+- Relational Tables
+
+Use Case: For structured data requiring relationships between entities.
+
+Example:
+Tools: PostgreSQL, MySQL.
+Scenario: Managing user accounts, bookings, and payments.
+
+Processing: Perform SQL operations like SELECT, JOIN, and GROUP BY to fetch or aggregate data.
+
+
+ - Graphs
+
+Use Case: For relationships and connections between entities.
+
+Example:
+
+Tools: Neo4j, ArangoDB.
+
+Scenario: Representing and querying travel routes or user connections.
+
+Processing: Use graph traversal algorithms like Depth-First Search (DFS) or Breadth-First Search (BFS) for recommendations or shortest path discovery.
+
+
+- Queues
+
+Use Case: For message passing and asynchronous processing.
+
+Example:
+
+Tools: RabbitMQ, Amazon SQS, Kafka.
+
+Scenario: Processing price alerts or booking notifications.
+
+Processing: Messages are enqueued by producers and dequeued by consumers for further handling.
+
+
+- Logs
+
+Use Case: For sequential, append-only data.
+
+Example:
+
+Tools: Kafka, Elasticsearch.
+
+Scenario: Capturing user activity logs or transaction histories.
+
+Processing: Use batch processing or streaming frameworks (e.g., Apache Flink, Spark) to analyze logs in real-time.
+
+
+- Distributed Hash Tables
+
+Use Case: For distributed storage of key-value data across nodes.
+
+Example:
+
+Tools: Cassandra, DynamoDB.
+
+Scenario: Handling distributed storage of travel deals or search indexes.
+
+Processing: Partition and replicate data across nodes using consistent hashing.
+
+
+
+
+- Blob Storage
+
+Use Case: For storing unstructured data like images, PDFs, or videos.
+
+Example:
+
+Tools: Amazon S3, Azure Blob Storage.
+
+Scenario: Storing user-uploaded passport images or itineraries.
+
+Processing: Retrieve, update, or delete blobs as needed.
+
 
 ## Portfolio
 
