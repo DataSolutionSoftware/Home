@@ -126,6 +126,9 @@ CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Mon
 
 This low-level architecture delves into the specifics of each component, detailing interactions, data flow, and technology choices.
 
+
+https://github.com/kukuu/integration/blob/main/syst-design-low-level-architecture.png
+
 ### API Gateway:
 
 - Responsibilities:
