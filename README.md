@@ -523,9 +523,7 @@ Processing: Retrieve, update, or delete blobs as needed.
 
 ## Processing Data Structures 
 
-- Data Storage:
-  
-Use appropriate databases (SQL for structured data, NoSQL for unstructured data).
+- Data Storage: Use appropriate databases (SQL for structured data, NoSQL for unstructured data).
 Apply indexing for efficient query execution.
 
 - Data Caching:
@@ -548,7 +546,7 @@ Batch processing: Use tools like Apache Hadoop or Spark for historical data proc
 - Communication Between Services:
 REST APIs or gRPC for synchronous communication.
 
-Queues (RabbitMQ, Kafka) for asynchronous communication to ensure reliability.
+- Queues (RabbitMQ, Kafka) for asynchronous communication to ensure reliability.
 
 ## Architecture:
 
