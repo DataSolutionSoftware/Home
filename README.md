@@ -239,6 +239,8 @@ Grafana: Data visualization.
 Jaeger/Zipkin: Distributed tracing for debugging service interactions.
 
 
+
+
 ### Authentication and Authorization:
 
 OAuth2.0 and OpenID Connect: For user identity management.
@@ -353,8 +355,57 @@ Docker for containerization.
 
 Kubernetes for container orchestration, scaling, and failover.
 
+### Challenges  and Resolutions 
+
+Challenge 1: Scalability
+
+Issue: Handling millions of concurrent requests.
+
+Resolution: Implement CDN, Redis caching, and Kubernetes autoscaling.
 
 
+Challenge 2: Real-Time Updates
+
+Issue: Booking and pricing require real-time data.
+
+Resolution: Use WebSockets and Event-Driven Architecture with message queues.
+
+Challenge 3: Observability
+
+Issue: Monitoring user interactions and failures.
+
+Resolution: Integrate Prometheus and ELK for real-time metrics and logs.
+
+Challenge 4: Security
+
+Issue: Authentication, data breaches, and fraud prevention.
+
+Resolution: Role-based access,
+OAuth2, encryption (TLS), and WAF.
+
+### Testing and Validation:
+
+Unit Testing: Jest and React Testing Library.
+
+Integration Testing: Cypress for end-to-end testing.
+
+Performance Testing: Load tests with JMeter.
+
+CI/CD Tests: Automated test pipelines with GitHub Actions.
+
+### Key Technologies Considered:
+
+Frontend Framework: React.js with Next.js for SSR and CSR.
+
+State Management: Redux Toolkit or Recoil.
+
+Caching: Redis and SWR.
+
+API Communication: GraphQL and REST.
+
+Containerization and Orchestration: Docker and Kubernetes.
+
+Monitoring and Logs: Prometheus and ELK Stack.
 
 ## Architecture:
 
