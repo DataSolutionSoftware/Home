@@ -141,7 +141,7 @@ NGINX: High-performance web server and reverse proxy.
 AWS API Gateway: Managed service for creating and managing APIs.
 Vertical Services:
 
-### Design:
+### Services:
 
 Each service is a microservice with its own codebase, database, and deployment pipeline.
 Services communicate over well-defined interfaces (APIs).
