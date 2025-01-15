@@ -285,6 +285,74 @@ Grafana Dashboards: Real-time visual analytics and alerts.
 ELK Stack: Aggregates logs and errors for auditing and compliance.
 
 
+
+
+## Frontend System Design
+
+Key Components in the Frontend High-Level Design:
+
+### Client Application (React, Next.js):
+CSR (Client-Side Rendering - Loading on demand) and SSR (Server-
+
+Side Rendering - Static compiled  data) hybrid model for fast loading.
+
+Tailwind CSS for styling and responsive design.
+
+
+### API Gateway:
+Unified entry point for API calls.
+Load balancer for distributing traffic.
+
+Handles authentication, rate limiting, and CORS.
+
+### Service Communication Layer:
+GraphQL for flexible query structures.
+
+
+REST API fallback for legacy services.
+
+
+WebSockets for real-time updates (e.g., booking status).
+
+
+### Authentication and Authorization (Auth Service):
+
+
+OAuth 2.0 (User Identity) and JWT for secure token-based access.
+
+
+Role-based access control (RBAC).
+
+### Data Caching and CDN (Content Delivery Network):
+
+
+Redis or Varnish for caching frequently accessed data (kEY/VALUES).
+
+
+CDN (e.g., Cloudflare) for static asset delivery.
+
+
+
+### Logging and Monitoring (Observability):
+
+Prometheus for metrics collection.
+ELK Stack (Elasticsearch, Logstash, Kibana) for centralized logging and visual dashboards.
+
+
+### CI/CD Pipeline:
+GitHub Actions / Jenkins for automated builds, tests, and deployments.
+
+Canary deployments for rolling out updates with minimal risk.
+
+### Containerization and Orchestration:
+Docker for containerization.
+
+
+Kubernetes for container orchestration, scaling, and failover.
+
+
+
+
 ## Architecture:
 
 Microservice - https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=586KLgu9nFXtqLlr-0 
