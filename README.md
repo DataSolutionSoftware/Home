@@ -565,12 +565,3 @@ CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Mon
 
 
 https://github.com/DataSolutionSoftware/Portfolio
-
-## Partners
-
-
-![image](https://github.com/kukuu/integration/blob/main/aawt-logo.png)  ![image](https://github.com/kukuu/integration/blob/main/wercel-logo.jpg)
-
-
-
-
