@@ -562,11 +562,24 @@ CMS Migration (Monolith to Headless) - https://github.com/kukuu/Migration-of-Mon
 ## Development 
 
 
-Task -https://github.com/kukuu/integration/blob/main/data-transformation-energy-meterdigital-twin.md 
+Task - 
+https://github.com/kukuu/integration/blob/main/data-transformation-energy-meterdigital-twin.md 
 
 Repository - 
 
 https://github.com/kukuu/digital-twin-PV4-
+
+
+Task - 
+
+
+https://github.com/kukuu/digital-twin-v2/blob/main/README.md 
+
+Repository- 
+
+
+https://github.com/kukuu/digital-twin-v2 
+
 
 ## Portfolio
 
