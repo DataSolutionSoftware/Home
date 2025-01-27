@@ -581,6 +581,13 @@ Repository-
 https://github.com/kukuu/digital-twin-v2 
 
 
+V2 patches:
+
+App - https://digital-twin-v2-chi.vercel.app/
+
+Repository - 
+https://github.com/kukuu/digital-twin-v2
+
 # In Scope 
 
 https://github.com/DataSolutionSoftware/travel-bookings-architecture
