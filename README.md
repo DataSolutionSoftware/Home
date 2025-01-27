@@ -581,6 +581,10 @@ Repository-
 https://github.com/kukuu/digital-twin-v2 
 
 
+# In Scope 
+
+https://github.com/DataSolutionSoftware/travel-bookings-architecture
+
 ## Portfolio
 
 https://github.com/DataSolutionSoftware/Portfolio
